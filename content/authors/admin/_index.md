@@ -21,8 +21,8 @@ role: Technical Program Manager
 
 # Organizations/Affiliations to display in Biography blox
 # organizations:
-#  - name: GenCoin
-#    url: https://www.example.com/
+# - name: GenCoin
+#   url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -34,13 +34,12 @@ profiles:
     url: https://github.com/senthil-mookiah
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/senthil-prabhu/
-  
 
 education:
-  - area: MS Computer Science
-    institution: Georgia Institute of Technology
-    date_start: 2025-01-01
-    date_end: 2027-05-30
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -100,15 +99,15 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: devicon/python
-      - name: RStudio
+        icon: code-bracket
+      - name: Data Science
         description: ''
         percent: 100
-        icon: devicon/rstudio
-      - name: PyTorch
+        icon: chart-bar
+      - name: SQL
         description: ''
         percent: 40
-        icon: devicon/pytorch
+        icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -166,4 +165,14 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+## I live in San Francisco, designing large language models at OpenAI.
+
+I am a research scientist at Open AI where I am currently working on training ChatGPT v100.
+
+My research interests include:
+
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie lacus nec finibus bibendum. Nullam turpis nibh, viverra quis libero at, pharetra laoreet magna.
