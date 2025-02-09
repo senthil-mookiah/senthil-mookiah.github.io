@@ -1,6 +1,6 @@
 ---
 # Display name
-title: SEN
+title: செந்தில்
 
 # Name pronunciation (optional)
 name_pronunciation: Senthil Prabhu Mookiah
