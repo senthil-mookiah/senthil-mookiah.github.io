@@ -1,13 +1,13 @@
 ---
 # Display name
-title: செந்தில்
+title: 吳健雄
 
 # Name pronunciation (optional)
-name_pronunciation: Senthil Prabhu Mookiah
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Senthil Prabhu
-last_name: Mookiah
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -17,23 +17,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Technical Program Manager
+role: Director of Cloud Infrastructure
 
 # Organizations/Affiliations to display in Biography blox
-# organizations:
-# - name: GenCoin
-#   url: https://www.example.com/
+organizations:
+  - name: GenCoin
+    url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:senthil.mookiah@outlook.com'
+    url: 'mailto:your-email@example.com'
     label: E-mail Me
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
   - icon: brands/github
-    url: https://github.com/senthil-mookiah
+    url: https://github.com/gcushen
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/senthil-prabhu/
+    url: https://www.linkedin.com/
+  - icon: brands/instagram
+    url: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
@@ -99,15 +103,15 @@ skills:
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: devicon/python
+      - name: RStudio
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: devicon/rstudio
+      - name: PyTorch
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: devicon/pytorch
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -165,14 +169,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## I live in San Francisco, designing large language models at OpenAI.
-
-I am a research scientist at Open AI where I am currently working on training ChatGPT v100.
-
-My research interests include:
-
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas molestie lacus nec finibus bibendum. Nullam turpis nibh, viverra quis libero at, pharetra laoreet magna.
+I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
