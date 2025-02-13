@@ -13,11 +13,11 @@ main:
   - name: Education
     url: education/
     weight: 30
-  - name: Projects
-    url: projects/
-    weight: 40
   - name: Skills
     url: skills/
+    weight: 40
+  - name: Projects
+    url: projects/
     weight: 50
   - name: Blog
     url: post/
