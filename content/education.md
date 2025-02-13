@@ -1,5 +1,5 @@
 ---
-title: 'Experience'
+title: 'Education'
 date: 2023-10-24
 type: landing
 
@@ -17,5 +17,9 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
 ---
