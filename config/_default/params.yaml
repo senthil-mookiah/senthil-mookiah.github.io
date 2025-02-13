@@ -40,11 +40,11 @@ footer:
     license:
       enable: true
       allow_derivatives: false
-      share_alike: false
+      share_alike: true
       allow_commercial: false
   
   # For multilingual sites, show a language chooser in the footer?
-  show_translations: false
+  show_translations: true
 
 # Localization
 locale:
