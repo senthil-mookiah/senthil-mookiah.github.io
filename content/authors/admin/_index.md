@@ -1,7 +1,7 @@
 ---
 # Display name
 # title: செந்தில்
-title: 聖チル
+title:
 
 # Name pronunciation (optional)
 name_pronunciation: Senthil Prabhu Mookiah
@@ -12,7 +12,8 @@ last_name: Mookiah
 
 # Status emoji
 status:
-  icon: ☕️
+# icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
