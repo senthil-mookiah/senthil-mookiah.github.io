@@ -1,7 +1,7 @@
 ---
 # Display name
 # title: செந்தில்
-title: 聖チル
+title: センティル
 
 # Name pronunciation (optional)
 name_pronunciation: Senthil Prabhu Mookiah
